@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/11/2015, 14:29:25
+    Author     : fredw
+*/
+
+
+
+#steelblue{
+    color: whitesmoke;
+    background-color: steelblue;
+    
+    
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color: red;
+}
+
+
+#login{
+    position: absolute;
+    color: black;
+    text-align: center;
+    top: 35%;
+    left: 25%;
+    right: 25%;
+    background-color: buttonface;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+#salvar{
+    position: absolute;
+    color: black;
+    text-align: center;
+    top: 15%;
+    left: 40%;
+    right: 40%;
+    background-color: buttonface;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#excluir{
+    position: absolute;
+    color: black;
+    text-align: center;
+    top: 45%;
+    left: 40%;
+    right: 40%;
+    background-color: buttonface;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#lista{
+    position: absolute;
+    color: black;
+    text-align: center;
+    top: 45%;
+    left: 30%;
+    right: 30%;
+    background-color: buttonface;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
